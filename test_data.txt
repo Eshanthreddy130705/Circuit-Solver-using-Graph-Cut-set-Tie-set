@@ -1,0 +1,6 @@
+Branch_origin Branch_dest R C L V I
+1 3 - - - 1 -
+1 2 - - 1 - -
+2 3 - 1 - - -
+2 3 1 - - - -
+1 2 3 - - - -
